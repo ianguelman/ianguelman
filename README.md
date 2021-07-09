@@ -11,13 +11,15 @@ You can reach me at my LinkedIn:
 
 
 ## Awards 🏆
+👨‍💻 Best software developed during "TIS IV" class - 2021
+
 🎓 Outstanding student in Software Engineering degree - 2020
 
-👨‍💻 Best software developed during "TIS III" course - 2020
+👨‍💻 Best software developed during "TIS III" class - 2020
 
-👨‍💻 Best software developed during "TIS II" course - 2019
+👨‍💻 Best software developed during "TIS II" class - 2019
 
-👨‍💻 Best software developed during "TIS I" course - 2019
+👨‍💻 Best software developed during "TIS I" class - 2019
 
 
 ## GitHub Stats 📈
