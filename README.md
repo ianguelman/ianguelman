@@ -11,6 +11,7 @@ You can reach me at my LinkedIn:
 
 
 ## Awards 🏆
+🎓 Outstanding student in Software Engineering degree - 2022
 
 🎓 Outstanding student in Software Engineering degree - 2021
 
