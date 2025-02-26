@@ -81,5 +81,10 @@ You can reach me at my LinkedIn:
 
 
 ## GitHub Stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianguelman&layout=compact&theme=solarized-light&langs_count=10&hide=objective-c,ruby,starlark&card_width=445&bg_color=fffefe)
 
+<a href="https://github-readme-stats-ianguelmans-projects.vercel.app/api?username=ianguelman&show_icons=true&hide=stars&theme=solarized-light&bg_color=fffefe">
+  <img height=200 align="center" src="https://github-readme-stats-ianguelmans-projects.vercel.app/api?username=ianguelman&show_icons=true&hide=stars&theme=solarized-light&bg_color=fffefe" />
+</a>
+<a href="https://github-readme-stats-ianguelmans-projects.vercel.app/api/top-langs/?username=ianguelman&layout=compact&theme=solarized-light&langs_count=10&hide=objective-c,ruby,starlark&card_width=445&bg_color=fffefe">
+  <img height=200 align="center" src="https://github-readme-stats-ianguelmans-projects.vercel.app/api/top-langs/?username=ianguelman&layout=compact&theme=solarized-light&langs_count=10&hide=objective-c,ruby,starlark&card_width=445&bg_color=fffefe" />
+</a>
